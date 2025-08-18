@@ -1,6 +1,13 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Bhaskar+Fulara" alt="Typing SVG" />
-</p>
+<h1 align="center" style="animation: fadeIn 2s ease-in-out infinite alternate;">
+  Hi 👋, I'm Bhaskar Fulara
+</h1>
+
+<style>
+@keyframes fadeIn {
+  from { opacity: 0.3; transform: scale(0.95); }
+  to { opacity: 1; transform: scale(1.05); }
+}
+</style>
 <!--
 **BhashkarFulara369/BhashkarFulara369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
