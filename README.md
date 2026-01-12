@@ -3,7 +3,6 @@
 
   *Sometimes I write code, too.*
 
-  <img src="https://visitor-badge.laobi.io/badge?page_id=BhashkarFulara369.BhashkarFulara369" alt="visitors" />
 
 </div>
 
